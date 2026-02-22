@@ -1,0 +1,18 @@
+# audio/video processing
+ffmpeg-python
+
+# speech to text
+openai-whisper
+
+# translation - best for Indian languages
+indic-transliteration
+
+# voice cloning
+TTS
+
+# face and lip sync
+opencv-python
+numpy
+
+# for downloading source video
+gdown
