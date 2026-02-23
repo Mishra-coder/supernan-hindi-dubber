@@ -92,3 +92,5 @@ supernan-hindi-dubber/
 - Use IndicTrans2 for better Kannada to Hindi translation
 - Add background music preservation using audio separation
 - Build FastAPI wrapper for production deployment
+
+<!-- updated -->
